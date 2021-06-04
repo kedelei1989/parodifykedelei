@@ -1,0 +1,35 @@
+{"level":30,"time":"2021-06-04T19:33:01.200Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Listening on 60437"}
+{"level":30,"time":"2021-06-04T19:33:02.158Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-06-04T19:33:02.171Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Changed active context"}
+{"level":30,"time":"2021-06-04T19:33:02.494Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Video path: undefined"}
+{"level":30,"time":"2021-06-04T19:33:02.494Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Changed active page"}
+{"level":30,"time":"2021-06-04T19:33:09.716Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:09.752Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:09.785Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:09.816Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:09.845Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:09.875Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:09.906Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:09.937Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:09.967Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.002Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.034Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.081Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.111Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.142Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.174Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.213Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.261Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.300Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.339Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.376Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.412Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-06-04T19:33:10.450Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Buscar"}
+{"level":30,"time":"2021-06-04T19:33:14.585Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Rock"}
+{"level":30,"time":"2021-06-04T19:33:16.691Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Retrieved text for element css=h2 containing Músicas"}
+{"level":30,"time":"2021-06-04T19:33:23.878Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Changed active context"}
+{"level":30,"time":"2021-06-04T19:33:23.879Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-04T19:33:23.879Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Changed active page"}
+{"level":30,"time":"2021-06-04T19:33:23.907Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Changed active context"}
+{"level":30,"time":"2021-06-04T19:33:23.907Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-04T19:33:23.907Z","pid":17736,"hostname":"DESKTOP-UJFN8IG","msg":"Changed active page"}
